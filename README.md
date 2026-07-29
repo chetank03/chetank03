@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" alt="waving hand" />
 
-I'm [**Chetan**](https://linkedin.com/in/chetan-kodeboyina-b229a8219/), a software engineer in New York City.
+I'm [**Chetan**](https://linkedin.com/in/chetan-kodeboyina-b229a8219/), a graduate student in New York City.
 
 I'm finishing an MS in Computer Engineering at NYU in May 2027, and I did my bachelor's in Computer Science with Artificial Intelligence at King's College London.
 
